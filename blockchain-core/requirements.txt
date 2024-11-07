@@ -1,0 +1,6 @@
+aiosqlite==0.20.0
+cryptography==39.0.1
+aiohttp==7.4.0
+pycryptodome==3.10.1
+pytest==7.4.0
+pytest-asyncio==0.20.0
